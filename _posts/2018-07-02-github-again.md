@@ -19,4 +19,7 @@ title: Github Again？
 
 *我的blog当时用的Jekyll搞，虽然还是没搞明白编辑的模板为啥这么复杂，但是能用并且做了简化（删光所有乱七八糟的样式），用着也是舒爽的*
 
-{{ page.date | date:"%B %b, %Y" }}  {{ page.content | number_of_words }}字
+---
+{{ page.date | date:"%Y-%m-%d" }} 
+
+{{ page.previous | page.title }}  {{ page.next | page.title }}
