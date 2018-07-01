@@ -1,9 +1,7 @@
 # 简介
-Github作为知识管理的Core，调整多端碎片化知识的现状
+blog为内容汇总
 
-- [Blog](https://jrnyrokbird.github.io) - 暂时根目录作为blog，未来有必要再调整
-- [Axure Share]() - 暂停
-- [临时演示Demo](http://jrnyrokbird.github.io/demo) - 在某些环境不方便用AureShare时作为替代用
+- [Blog](https://jrnyrokbird.github.io/blog) - 统筹各种公开内容
 - [语雀wiki](https://yuque.com/jrcc) - 一个内容终端、仓库，输出产品&产品经理相关内容，考虑作为github的补充
 - [简书](https://www.jianshu.com/u/4f786e886bd9) - 作为一个内容终端、内容渠道
 - [公众号]() - 作为另一个内容终端、内容渠道；内容调整好再公开
