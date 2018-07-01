@@ -1,2 +1,4 @@
 highlighter: rouge
 mardown: redcarpet
+
+theme: jekyll-theme-cayman
